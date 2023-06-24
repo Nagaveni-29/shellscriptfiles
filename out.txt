@@ -1,0 +1,19 @@
+total 64
+-rwxrwxr-x 1 nagu29 nagu29  429 Jun 10 00:25 fun.sh
+-rwxrwxr-x 1 nagu29 nagu29   57 Jun 10 11:01 f2.sh
+drwxrwxr-x 3 nagu29 nagu29 4096 Jun 10 22:46 newrep
+-rw-rw-r-- 1 nagu29 nagu29   73 Jun 11 23:28 diskspace
+-rw-rw-r-- 1 nagu29 nagu29   45 Jun 18 14:29 check1.sh
+-rwxrwxr-x 1 nagu29 nagu29   70 Jun 18 14:30 check.sh
+-rw-rw-r-- 1 nagu29 nagu29  312 Jun 19 12:28 file.sh
+-rw-rw-r-- 1 nagu29 nagu29  250 Jun 19 12:38 shell_script.sh
+drwxrwxr-x 3 nagu29 nagu29 4096 Jun 19 13:15 dir
+-rwxrwxrwx 1 nagu29 nagu29  239 Jun 20 21:11 fibno1.sh
+-rwxrwxrwx 1 nagu29 nagu29  164 Jun 21 00:01 sum.sh
+-rwxrwxrwx 1 nagu29 nagu29  124 Jun 21 00:28 sum1.sh
+-rw-rw-r-- 1 nagu29 nagu29    0 Jun 21 00:51 g2.txt
+-rw-rw-r-- 1 nagu29 nagu29   91 Jun 21 01:30 cron.sh
+-rwxrwxrwx 1 nagu29 nagu29  144 Jun 21 02:31 fibno.sh
+-rw-rw-r-- 1 nagu29 nagu29  169 Jun 21 02:32 string.sh
+-rw-rw-r-- 1 nagu29 nagu29   55 Jun 21 09:07 background.sh
+-rw-rw-r-- 1 nagu29 nagu29    0 Jun 21 09:07 out.txt

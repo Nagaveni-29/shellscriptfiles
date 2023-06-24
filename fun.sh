@@ -40,3 +40,5 @@ f
 
 echo "_______------------___"
 t
+echo "ecit status is $?"
+
